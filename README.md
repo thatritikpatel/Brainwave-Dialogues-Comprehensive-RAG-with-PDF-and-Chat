@@ -9,6 +9,7 @@ A powerful application built for intelligent conversations and retrieval-augment
 Here's a video demo of the project:
 
 https://github.com/user-attachments/assets/abbb6365-a929-4f81-9ecf-106614197330
+
 ---
 
 ## 🚀 Why This Project?
